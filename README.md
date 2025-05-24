@@ -1,5 +1,5 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
-### Name:Vineela Shaik
+### Name: Vineela Shaik
 ### REG: 212223040243
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
